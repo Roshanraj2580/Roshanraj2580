@@ -74,14 +74,6 @@ Currently pursuing my **B.Tech in Electronics and Communication Engineering at B
 - 🏅 **Google "The Big Code" 2026**: Round 2 Qualifier, recognized among the **Top 1,500** students nationally.
 - 🎯 **JEE Main 2023**: Scored in the **Top 3% percentile** nationwide among 1.2+ million aspirants.
 
----
-
-### 📊 GitHub & Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshanraj2580&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Roshan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshanraj2580&theme=tokyonight&hide_border=true" alt="Roshan's GitHub Streak" />
-</p>
 
 ---
 
