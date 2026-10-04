@@ -37,7 +37,7 @@ Currently pursuing my **B.Tech in Electronics and Communication Engineering at B
 #### ⚙️ Backend, AI & Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql" alt="Backend and Databases" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,redis,sqlite" alt="Backend and Databases" />
   </a>
 </p>
 
@@ -56,23 +56,17 @@ Currently pursuing my **B.Tech in Electronics and Communication Engineering at B
   *High-Performance Deep Packet Inspection (DPI) & Network Sniffer*  
   Built with **C++, Multi-threading, Fast Path, Load Balancer, and Web UI**. Performs real-time protocol decoding, connection tracking, SNI extraction, and dynamic rule-based traffic classification.
 
-- **[HirePilot AI](https://github.com/Roshanraj2580)** 🤖  
+- **[AI RAG Chatbot & Knowledge Graph](https://github.com/Roshanraj2580/ai-chatbot-rag)** 🧠  
+  *Enterprise Document Intelligence & Graph RAG Platform*  
+  Built with **FastAPI, Flask, ChromaDB, Gemini 3.8 Flash, and Upstash Redis**.
+  - **Graph RAG**: Entity extraction & force-directed interactive knowledge graph visualizer (Vis.js) for multi-hop cross-document reasoning.
+  - **Advanced Hybrid Search**: Merges sparse **BM25** and dense embeddings via **Reciprocal Rank Fusion (RRF)** with near-duplicate chunk deduplication.
+  - **MLOps Observability (`/mlops`)**: Real-time query telemetry tracking token consumption, financial cost ($ USD), latency (ms), and user satisfaction.
+  - **High Performance & Voice**: Sub-5ms caching via **Upstash Redis** (with in-memory fallback) and full-duplex voice conversation loop.
+
+- **[HirePilot AI](https://github.com/Roshanraj2580/hirepilot)** 🤖  
   *End-to-End AI-Powered Technical & HR Interview Platform*  
   Built with **React.js, Node.js, Express, MongoDB, and Gemini AI**. Features automated resume parsing, real-time dynamic questioning, feedback generation, and Razorpay subscription billing.
-
-- **[AI RAG Chatbot](https://github.com/Roshanraj2580)** 📚  
-  *Enterprise Document Intelligence Platform*  
-  Built with **Python, FastAPI, ChromaDB, Gemini Embeddings, and Docker**. Implements hybrid retrieval (**BM25 + Dense Vector Search**), duplicate-aware chunking, and low-latency QA endpoints.
-
----
-
-### 🏆 Achievements & Badges
-
-- ⚔️ **LeetCode Knight**: Top-tier competitive programmer with a peak rating of **1850+** and **800+** solved problems.
-- 🌍 **Global Rank 493**: Out of 31,200+ participants worldwide in **LeetCode Weekly Contest 502**.
-- 🏅 **Google "The Big Code" 2026**: Round 2 Qualifier, recognized among the **Top 1,500** students nationally.
-- 🎯 **JEE Main 2023**: Scored in the **Top 3% percentile** nationwide among 1.2+ million aspirants.
-
 
 ---
 
