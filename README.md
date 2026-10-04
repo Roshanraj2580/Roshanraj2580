@@ -13,7 +13,6 @@ I'm an engineer and builder passionate about **scalable backend systems, high-pe
 Currently pursuing my **B.Tech in Electronics and Communication Engineering at BIT Mesra** (CGPA: **8.83**), I bridge strong theoretical computer science and algorithmic problem-solving with hands-on full-stack product development.
 
 - 🔭 **Currently Building:** High-performance DPI networking engines, multi-agent workflows (LangGraph), and enterprise RAG platforms.
-- 💼 **Experience:** Ex-Web Development Intern at **KeyNcoders** — built modular React.js interfaces and robust Node.js/Express REST APIs.
 - ⚔️ **Competitive Programming:** **LeetCode Knight** (Rating **1850+**, **800+** algorithmic problems solved across LeetCode, Codeforces & GFG).
 - 🏆 **Contest Ranks:** Global Rank **493 / 31,204** in LeetCode Weekly Contest 502 & Qualified for Round 2 of **Google "The Big Code" 2026** (Top 1,500).
 
